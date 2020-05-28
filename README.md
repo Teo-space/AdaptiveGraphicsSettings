@@ -1,2 +1,4 @@
 # AdaptiveGraphicsSettings
-Module for Melon loader Adaptive Graphics Settings for VRChat This mod changes the graphics settings depending on the current FPS
+Module for MelonLoader Adaptive Graphics Settings for VRChat.
+
+This mod changes the graphics settings depending on the current FPS
