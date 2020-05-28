@@ -53,7 +53,7 @@ namespace AdaptiveGraphicsSettings
             }
             else if (FPS < 10f)
             {
-                shit();
+                ultraLow();
             }
             owo++;
         }
@@ -90,7 +90,7 @@ namespace AdaptiveGraphicsSettings
             QualitySettings.shadowDistance = 80f;
         }
 
-        public static void shit()
+        public static void ultraLow()
         {
             QualitySettings.antiAliasing = 0;
             QualitySettings.pixelLightCount = 0;
